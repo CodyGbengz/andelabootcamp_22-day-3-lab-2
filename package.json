@@ -1,0 +1,22 @@
+{
+  "name": "andelabootcamp_22-day-3-lab-2",
+  "version": "1.0.0",
+  "description": "A class that manipulates strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillyWunderdog/andelabootcamp_22-day-3-lab-2.git"
+  },
+  "keywords": [
+    "\"strings\""
+  ],
+  "author": "Gbenga Ode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WillyWunderdog/andelabootcamp_22-day-3-lab-2/issues"
+  },
+  "homepage": "https://github.com/WillyWunderdog/andelabootcamp_22-day-3-lab-2#readme"
+}
